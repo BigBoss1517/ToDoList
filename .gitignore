@@ -3,7 +3,7 @@
 
 # Parcel Bundler
 /.parcel-cache
-/.dist
+/dist
 
 # env Ikeys to access to service
 .env
